@@ -1,0 +1,8 @@
+ [
+      {category: 'Sporting Goods', price: '$49.99', stocked: true, name: 'Football',url:'https://n1.sdlcdn.com/imgs/e/h/j/Nike-CR7-Replica-Black-Football-SDL356186960-1-02aef.jpg'},
+      {category: 'Sporting Goods', price: '$9.99', stocked: true, name: 'Baseball',url:'http://www.norris160.org/sites/default/files/news_images/4/Baseball%203_0.jpg'},
+      {category: 'Sporting Goods', price: '$29.99', stocked: false, name: 'Basketball',url:'http://www.opnlttr.com/sites/default/files/448650-basketball_mario_sports_mix_.png'},
+      {category: 'Electronics', price: '$99.99', stocked: true, name: 'iPod Touch',url:'https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/r/ef/refurb/2012/refurb-2012-ipodtouch-product-pink?wid=2000&hei=2000&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=6vqlR3'},
+      {category: 'Electronics', price: '$399.99', stocked: false, name: 'iPhone 5',url:'https://i.ebayimg.com/images/g/ZZQAAOSwk9dZpDIY/s-l225.jpg'},
+      {category: 'Electronics', price: '$199.99', stocked: true, name: 'Nexus 7',url:'https://images-na.ssl-images-amazon.com/images/I/410KkXa65-L._SL500_AC_SS350_.jpg'}
+    ];
